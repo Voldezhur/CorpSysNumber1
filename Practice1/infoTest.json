@@ -1,0 +1,22 @@
+{
+  "Students": [
+    {
+      "studentCode": 1,
+      "lastName": "Doe",
+      "firstName": "John",
+      "patronymic": "John"
+    },
+    {
+      "studentCode": 2,
+      "lastName": "Afton",
+      "firstName": "Michael",
+      "patronymic": "William"
+    },
+    {
+      "studentCode": 3,
+      "lastName": "Obama",
+      "firstName": "Barack",
+      "patronymic": "Barack"
+    }
+  ]
+}

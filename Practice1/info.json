@@ -1,0 +1,118 @@
+{
+  "Students": [
+    {
+      "studentCode": 1,
+      "lastName": "Doe",
+      "firstName": "John",
+      "patronymic": "John"
+    },
+    {
+      "studentCode": 2,
+      "lastName": "Afton",
+      "firstName": "Michael",
+      "patronymic": "William"
+    },
+    {
+      "studentCode": 3,
+      "lastName": "Obama",
+      "firstName": "Barack",
+      "patronymic": "Barack"
+    },
+    {
+      "studentCode": 4,
+      "lastName": "Bush",
+      "firstName": "George",
+      "patronymic": "W"
+    },
+    {
+      "studentCode": 5,
+      "lastName": "Zhuravlev",
+      "firstName": "Vladimir",
+      "patronymic": "Andreevich"
+    },
+    {
+      "studentCode": 6,
+      "lastName": "Pupkin",
+      "firstName": "Vasiliy",
+      "patronymic": "Ivanovich"
+    }
+  ],
+  "Subjects": [
+    {
+      "subjectCode": 1,
+      "name": "Industrial programming",
+      "lecturesVolume": 8,
+      "seminarVolume": 16
+    },
+    {
+      "subjectCode": 2,
+      "name": "Software development",
+      "lecturesVolume": 8,
+      "seminarVolume": 16
+    },
+    {
+      "subjectCode": 3,
+      "name": "Mathematical statistics",
+      "lecturesVolume": 8,
+      "seminarVolume": 16
+    },
+    {
+      "subjectCode": 4,
+      "name": "Databases",
+      "lecturesVolume": 8,
+      "seminarVolume": 16
+    }
+  ],
+  "studyPlans": [
+    {
+      "studentCode": 1,
+      "subjectCode": 1,
+      "grade": 5
+    },
+    {
+      "studentCode": 3,
+      "subjectCode": 1,
+      "grade": 3
+    },
+    {
+      "studentCode": 2,
+      "subjectCode": 1,
+      "grade": 5
+    },
+    {
+      "studentCode": 5,
+      "subjectCode": 1,
+      "grade": 5
+    },
+    {
+      "studentCode": 5,
+      "subjectCode": 2,
+      "grade": 5
+    },
+    {
+      "studentCode": 5,
+      "subjectCode": 3,
+      "grade": 5
+    },
+    {
+      "studentCode": 5,
+      "subjectCode": 4,
+      "grade": 4
+    },
+    {
+      "studentCode": 6,
+      "subjectCode": 1,
+      "grade": 3
+    },
+    {
+      "studentCode": 6,
+      "subjectCode": 2,
+      "grade": 4
+    },
+    {
+      "studentCode": 6,
+      "subjectCode": 3,
+      "grade": 4
+    }
+  ]
+}
